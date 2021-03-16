@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "253380717523",
-    "firebase_url": "https://keto-d9404.firebaseio.com",
-    "project_id": "keto-d9404",
-    "storage_bucket": "keto-d9404.appspot.com"
+    "project_number": "622141378887",
+    "firebase_url": "https://product-manager-288406.firebaseio.com",
+    "project_id": "product-manager-288406",
+    "storage_bucket": "product-manager-288406.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:253380717523:android:131ae4940c50111f",
+        "mobilesdk_app_id": "1:622141378887:android:6c93f33f14b73372da7c62",
         "android_client_info": {
-          "package_name": "com.code4func.keto"
+          "package_name": "com.example.taxi_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "253380717523-5vitqqtah8ubebssdflhlv1v28k58agu.apps.googleusercontent.com",
+          "client_id": "622141378887-b51t9a14boa7j038dcbc4u4ngep8pvcu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCv5a6GR4Vs3mByFSZ-mWFMlDoySORAoS0"
+          "current_key": "AIzaSyBmtLM1k9vDjOJJReDYwLa0ZhH3tdWcAEA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "253380717523-5vitqqtah8ubebssdflhlv1v28k58agu.apps.googleusercontent.com",
+              "client_id": "622141378887-b51t9a14boa7j038dcbc4u4ngep8pvcu.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
